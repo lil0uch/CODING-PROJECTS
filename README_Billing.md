@@ -11,4 +11,4 @@ Instruction to run the code properly:
 4. Open your Windows Command Prompt and find the directory in which the Java file is stored
 5. Run the Java file (Billing) in the command prompt by entering javac Billing.java (compilation), then java Billing.java (execution)
 
-\\Take note that this project is continuous, therefore expect some updates and changes to come
+Take note that this project is continuous, therefore expect some updates and changes to come
